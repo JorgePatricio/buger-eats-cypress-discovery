@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Jorge Patricio",
+            "cpf": "00000000095",
+            "email": "jorge@gmail.com",
+            "whatsapp": "71999451212",
+            "address": {
+                "postalcode": "41760200",
+                "street": "Rua Monsenhor Gaspar Sadoc",
+                "number": "686",
+                "details": "Ap 101",
+                "district": "Costa Azul",
+                "city_state": "Salvador/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Ildes Patricio",
+            "cpf": "000000000AA",
+            "email": "ildes@gmail.com",
+            "whatsapp": "71999459999",
+            "address": {
+                "postalcode": "41760200",
+                "street": "Rua Monsenhor Gaspar Sadoc",
+                "number": "686",
+                "details": "Ap 101",
+                "district": "Costa Azul",
+                "city_state": "Salvador/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Jorge Patricio",
+            "cpf": "00000000095",
+            "email": "jorge.gmail.com",
+            "whatsapp": "71999451212",
+            "address": {
+                "postalcode": "41760200",
+                "street": "Rua Monsenhor Gaspar Sadoc",
+                "number": "686",
+                "details": "Ap 101",
+                "district": "Costa Azul",
+                "city_state": "Salvador/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
